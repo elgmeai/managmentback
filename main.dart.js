@@ -78937,7 +78937,7 @@ $0(){var s=null
 this.a.a8(t.J).f.hl(A.hr(s,s,s,s,s,B.G,s,A.bE("\u062a\u0645 \u0627\u0636\u0627\u0641\u0629 \u0627\u0644\u0645\u062e\u0632\u0646 \u0628\u0646\u062c\u0627\u062d",s,s,s,s,s,s),s,B.bb,s,s,s,s,s,s,s,s,s))},
 $S:0}
 A.a9x.prototype={
-ahp(){var s,r,q,p,o,n,m,l,k,j,i,h=this,g="http://perfect-determination-production.up.railway.app",f=null,e="query",d=t.N,c=t.z,b=A.p(d,c)
+ahp(){var s,r,q,p,o,n,m,l,k,j,i,h=this,g="https://perfect-determination-production.up.railway.app",f=null,e="query",d=t.N,c=t.z,b=A.p(d,c)
 b.m(0,"reconnectionAttempts",5)
 b.m(0,"reconnectionDelay",2000)
 b.F(0,"reconnection")
@@ -78949,7 +78949,7 @@ q=s.gdz()
 p=$.alQ.ac(r)&&$.alQ.h(0,r).d.ac(q)
 o=J.d(b.h(0,"forceNew"),!0)||J.d(b.h(0,"force new connection"),!0)||!1===b.h(0,"multiplex")||p
 n=A.bu("io")
-if(o){$.ayG().aB(B.m,"ignoring socket cache for http://perfect-determination-production.up.railway.app",f,f)
+if(o){$.ayG().aB(B.m,"ignoring socket cache for https://perfect-determination-production.up.railway.app",f,f)
 n.b=A.ask(b,g)}else{m=$.alQ.h(0,r)
 if(m==null){m=A.ask(b,g)
 $.alQ.m(0,r,m)}n.b=m}if(s.gk0().length!==0&&b.h(0,e)==null)b.m(0,e,s.gk0())
